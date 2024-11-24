@@ -8,7 +8,7 @@ Aquest projecte s'ha desenvolupat durant una hackathon de 24 hores organitzada p
 - Capes de dades: **Jupyter Notebook** s'ha utilitzat per a preprocessar i analitzar dades.
 - Framework d'interfície: **Streamlit** s'ha fet servir per presentar els resultats de manera interactiva.
 
-Hem adjuntat la nostra presentacio per els nostres dissenys i diagrames utilitzats
+Hem adjuntat slides de la nostra presentacio per els nostres dissenys i diagrames utilitzats, que es troben a ./premi_eps
 
 ### Bones Pràctiques Implementades
 
