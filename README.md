@@ -25,7 +25,3 @@ Hem adjuntat slides de la nostra presentacio per els nostres dissenys i diagrame
 - [Notebook Principal](./model/model.ipynb)
 - [Aplicació Streamlit (Frontend)](./streamlit/frontend.py)
 - [Aplicació Streamlit (Backend)](./streamlit/backend.py)
-
-### Link per provar-ho
-
-[https://porksinparis.streamlit.app](url)
